@@ -8,3 +8,5 @@ https://warriorcatnamegenerator.com/
 warriorcatnamegenerator2345/warriorcatnamegenerator2345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Welcome to the Warrior Cat Name Generator!
+We provide a simple and fun way to generate unique warrior cat names. Whether you're a writer, role-player, or fan of the Warriors series, our generator helps you find the perfect name. With a large database and easy-to-use interface, create captivating names that bring your feline heroes to life. Start exploring and unleash your imagination today!
